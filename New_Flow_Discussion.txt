@@ -1,0 +1,42 @@
+Description 2 paragraph
+ - general scope
+ - Software kya kar hai add krna hai..
+ - technologys
+ - features
+===================================================================
+
+Customer
+  - Login
+  - Sign-up
+  - view orders
+  - compliant
+  - generate bill
+  
+
+
+Suplier
+  - Sign-up
+  - login
+  - order check kr sakta hai   
+  - Compliant dekh sakta hai  
+  - customer ko add kr skata hai 
+  - delete customer KR SAKTA HAI
+  - daily record rak sakta hai
+  - provider se kitna pani liya o record rakh sakta hai
+
+
+
+Provider
+  - Login
+  - Sign-up
+  - add suplier kar sakta hai
+  - delete suplier
+  - Kitne suplier ko kitne jar diye..(suplier record)
+  - Stock me kitna bacha hai
+  - Complaint dekh sakta hai
+  - Compliant ko reply kr sakta hai
+  -   
+  
+ 
+
+
